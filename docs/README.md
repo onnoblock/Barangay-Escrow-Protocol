@@ -1,12 +1,4 @@
 # LGU onboarding guides, legal compliance, civic charter
-REPUBLIC OF THE PHILIPPINES
-Supreme Court, Manila 
-Padre Faura St., Ermita, Manila
-Philippines 1000
 
-+63 2 8552-9644 | +63 968 013-0891
-https://sc.judiciary.gov.ph
-
-[View Smart Contracts](https://github.com/onnoblock/Barangay-Escrow-Protocol/tree/main/smart-contracts)
-
-[![View Trigger Logic](images/fpic-verification-flow.jpg)](ethical-triggers/fpic.md)
+📄 **Barangay Escrow Protocol Onboarding File**  
+[Download the full onboarding PDF](docs/assets/1Barangay%20Escrow%20Protocol.pdf.pdf)
