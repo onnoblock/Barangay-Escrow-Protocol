@@ -8,3 +8,5 @@ Philippines 1000
 https://sc.judiciary.gov.ph
 
 [View Smart Contracts](https://github.com/onnoblock/Barangay-Escrow-Protocol/tree/main/smart-contracts)
+
+[![View Trigger Logic](images/fpic-verification-flow.jpg)](ethical-triggers/fpic.md)
