@@ -10,6 +10,7 @@ To encode kindness, transparency, and stewardship into every land trade, estate 
 
 
 ## 📄 Start Here  
-[Barangay Escrow Protocol Onboarding File (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/Barangay%20Escrow%20Protocol.pdf)
+[1.  Barangay Escrow Protocol Onboarding File (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/Barangay%20Escrow%20Protocol.pdf)
 
+[2.  Handbook for Blockchain-based Escrow and Insurance System (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/Barangay%20Escrow%20Protocol.pdf)
 
