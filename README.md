@@ -15,3 +15,5 @@ To encode kindness, transparency, and stewardship into every land trade, estate 
 [2.  Handbook for Blockchain-based Escrow and Insurance System (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/2.%20%20Handbook%20for%20Blockchain-based%20Escrow%20and%20Insurance%20System.pdf)
 
 [3.  Sample Transaction:  Land Sale with Ethical Escrow (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/3.%20%20Sample%20Transaction%20-%20Land%20Sale%20with%20Ethical%20Escrow.pdf)
+
+[4.  Client Packet - Escrow Services and Insurance Application (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/4.%20%20Client%20Packet%20-%20Escrow%20Services%20and%20Insurance%20Application.pdf)
