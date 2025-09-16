@@ -18,6 +18,6 @@ To encode kindness, transparency, and stewardship into every land trade, estate 
 
 [4.  Client Packet - Escrow Services and Insurance Application (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/4.%20%20Client%20Packet%20-%20Escrow%20Services%20and%20Insurance%20Application.pdf)
 
-[5.  Why Choose GitHub to Host Files (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/4.%20%20Client%20Packet%20-%20Escrow%20Services%20and%20Insurance%20Application.pdf)
+[5.  Why Choose GitHub to Host Files (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/5%20%20Why%20Choose%20Github%20to%20Host%20Files.pdf)
 
 [6.  Sample Calculation of Taxes (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/6.%20%20Sample%20Calculation%20of%20Taxes.pdf)
