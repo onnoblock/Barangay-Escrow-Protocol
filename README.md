@@ -21,3 +21,5 @@ To encode kindness, transparency, and stewardship into every land trade, estate 
 [5.  Why Choose GitHub to Host Files (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/5%20%20Why%20Choose%20Github%20to%20Host%20Files.pdf)
 
 [6.  Sample Calculation of Taxes (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/6.%20%20Sample%20Calculation%20of%20Taxes.pdf)
+
+[7.  Barangay Escrow & Insurance Smart Contract Terms (PDF)]()
