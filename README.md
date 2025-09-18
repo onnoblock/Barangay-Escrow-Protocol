@@ -22,4 +22,4 @@ To encode kindness, transparency, and stewardship into every land trade, estate 
 
 [6.  Sample Calculation of Taxes (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/6.%20%20Sample%20Calculation%20of%20Taxes.pdf)
 
-[7.  Barangay Escrow & Insurance Smart Contract Terms (PDF)]()
+[7.  Barangay Escrow & Insurance Smart Contract Terms (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/7.%20%20Barangay%20Escrow%20%26%20Insurance%20Smart%20Contract%20Terms.pdf)
