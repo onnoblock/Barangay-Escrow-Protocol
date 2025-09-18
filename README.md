@@ -24,4 +24,4 @@ To encode kindness, transparency, and stewardship into every land trade, estate 
 
 [7.  Barangay Escrow & Insurance Smart Contract Terms (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/7.%20%20Barangay%20Escrow%20%26%20Insurance%20Smart%20Contract%20Terms.pdf)
 
-[8.  Barangay Escrow Insce Smart Contract Terms - for Titles with Annotations Encumbrances Liens (PDF)]()
+[8.  Barangay Escrow Insce Smart Contract Terms - for Titles with Annotations Encumbrances Liens (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/8.%20%20Barangay%20Escrow%20Insce%20Smart%20Contract%20Terms%20-%20for%20Titles%20with%20Annotations%20Encumbrances%20Liens.pdf)
