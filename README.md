@@ -26,4 +26,4 @@ To encode kindness, transparency, and stewardship into every land trade, estate 
 
 [8.  Barangay Escrow Insce Smart Contract Terms - for Titles with Annotations Encumbrances Liens (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/8.%20%20Barangay%20Escrow%20Insce%20Smart%20Contract%20Terms%20-%20for%20Titles%20with%20Annotations%20Encumbrances%20Liens.pdf)
 
-[9.  Ghosts-Free Environment in Our Governments and Businesses - p 1 to 5 (PDF)]()
+[9.  Ghosts-Free Environment in Our Governments and Businesses - p 1 to 5 (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/1%20%20Ghosts-Free%20Environment%20in%20Our%20Governments%20and%20Businesses.pdf)
