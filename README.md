@@ -28,4 +28,6 @@ To encode kindness, transparency, and stewardship into every land trade, estate 
 
 [9.  Ghosts-Free Environment in Our Governments and Businesses - p 1 to 5 (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/9.%20%20Ghosts-Free%20Environment%20in%20Our%20Governments%20and%20Businesses%20-%20p%201%20to%205.pdf)
 
-[10.  Historical Account - Background of Escrow Services & Insurance Business -  Propose to Offer this type of Service and Business to the Public, starting at our own Barangay in Tacurong City, Sultan Kudarat - (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/jpeg/1%20%20escrow%20services%20and%20insurance.jpg)
+[10.  Historical Account - Background of Escrow Services & Insurance Business -  Propose to Offer this type of Service and Business to the Public, starting at our own Barangay in Tacurong City, Sultan Kudarat - (JPEG)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/jpeg/1%20%20escrow%20services%20and%20insurance.jpg)
+
+[11.  Estimated Costs That May Persist or Shift (Blockchain-Enabled Setup) (PDF)]()
