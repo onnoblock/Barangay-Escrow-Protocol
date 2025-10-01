@@ -33,5 +33,5 @@ To encode kindness, transparency, and stewardship into every land trade, estate 
 [11.  Estimated Costs That May Persist or Shift (Blockchain-Enabled Setup) (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/Estimated%20Costs%20That%20May%20Persist%20or%20Shift%20(Blockchain-Enabled%20Setup).pdf)
 
 [12.  SIM Sentinel in Rescue Mode:  The SIM Registration Law (RA 11934)
-must evolve into a service entitlement engine, not just a surveillance tool (PDF)]( 
+must evolve into a service entitlement engine, not just a surveillance tool (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/12.%20%20SIM%20Sentinel%20in%20Rescue%20Mode.pdf) 
 (PDF)]()
