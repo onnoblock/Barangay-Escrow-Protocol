@@ -31,3 +31,7 @@ To encode kindness, transparency, and stewardship into every land trade, estate 
 [10.  Historical Account - Background of Escrow Services & Insurance Business -  Propose to Offer this type of Service and Business to the Public, starting at our own Barangay in Tacurong City, Sultan Kudarat - (JPEG)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/jpeg/1%20%20escrow%20services%20and%20insurance.jpg)
 
 [11.  Estimated Costs That May Persist or Shift (Blockchain-Enabled Setup) (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/Estimated%20Costs%20That%20May%20Persist%20or%20Shift%20(Blockchain-Enabled%20Setup).pdf)
+
+[12.  SIM Sentinel in Rescue Mode:  The SIM Registration Law (RA 11934)
+must evolve into a service entitlement engine, not just a surveillance tool 
+(PDF)]()
