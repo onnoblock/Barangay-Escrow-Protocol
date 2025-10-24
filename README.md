@@ -35,3 +35,6 @@ To encode kindness, transparency, and stewardship into every land trade, estate 
 [12.  SIM Sentinel in Rescue Mode:   The SIM Registration Law (RA 11934)
 must evolve into a service entitlement engine, not just a surveillance tool (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/12.%20%20SIM%20Sentinel%20in%20Rescue%20Mode.pdf) 
 (PDF)]()
+
+[13.  Extraordinary Acquisitive Prescription:   Extraordinary Acquisitive Prescription is the appropriate remedy for us because we have been here more than forty years in open, continuous occupancy and even our primary residence(PDF)]() 
+(PDF)]()
