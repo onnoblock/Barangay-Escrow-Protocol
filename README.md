@@ -36,5 +36,5 @@ To encode kindness, transparency, and stewardship into every land trade, estate 
 must evolve into a service entitlement engine, not just a surveillance tool (PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/12.%20%20SIM%20Sentinel%20in%20Rescue%20Mode.pdf) 
 (PDF)]()
 
-[13.  Extraordinary Acquisitive Prescription:   Extraordinary Acquisitive Prescription is the appropriate remedy for us because we have been here more than forty years in open, continuous occupancy and even our primary residence(PDF)]() 
+[13.  Extraordinary Acquisitive Prescription:   Extraordinary Acquisitive Prescription is the appropriate remedy for us because we have been here more than forty years in open, continuous occupancy and even our primary residence(PDF)](https://github.com/onnoblock/Barangay-Escrow-Protocol/blob/main/docs/pdf/13.%20%20Extraordinary%20Acquisitive%20Prescription.pdf) 
 (PDF)]()
